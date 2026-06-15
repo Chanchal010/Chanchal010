@@ -41,8 +41,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chanchal010&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal010&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF"/>
+  <img height="180" src="https://github-readme-stats-seven-orcin-75.vercel.app/api?username=chanchal010&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B" />
+  <img height="180" src="https://github-readme-stats-seven-orcin-75.vercel.app/api/top-langs/?username=chanchal010&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF" />
 </div>
 
 <div align="center">
